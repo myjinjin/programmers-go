@@ -1,6 +1,7 @@
 # programmers-go
 
 - [N개의 최소공배수](./programmers/12953/README.md)
+- [괄호 회전하기](./programmers/76502/README.md)
 - [귤 고르기](./programmers/138476/README.md)
 - [멀리 뛰기](./programmers/12914/README.md)
 - [연속 부분 수열 합의 개수](./programmers/131701/README.md)
