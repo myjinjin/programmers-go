@@ -1,5 +1,6 @@
 # programmers-go
 
+- [k진수에서 소수 개수 구하기](./programmers/92335/README.md)
 - [n^2 배열 자르기](./programmers/87390/README.md)
 - [N개의 최소공배수](./programmers/12953/README.md)
 - [괄호 회전하기](./programmers/76502/README.md)
