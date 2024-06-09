@@ -6,6 +6,7 @@
 - [괄호 회전하기](./programmers/76502/README.md)
 - [귤 고르기](./programmers/138476/README.md)
 - [뒤에 있는 큰 수 찾기](./programmers/154539/README.md)
+- [롤케이크 자르기](./programmers/132265/README.md)
 - [멀리 뛰기](./programmers/12914/README.md)
 - [연속 부분 수열 합의 개수](./programmers/131701/README.md)
 - [예상 대진표](./programmers/12985/README.md)
