@@ -10,3 +10,4 @@
 - [이진 변환 반복하기](./programmers/70129/README.md)
 - [점 찍기](./programmers/140107/README.md)
 - [할인 행사](./programmers/131127/README.md)
+- [행렬의 곱셈](./programmers/12949/README.md)
