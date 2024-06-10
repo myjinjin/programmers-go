@@ -1,5 +1,6 @@
 # programmers-go
 
+- [2개 이하로 다른 비트](./programmers/77885/README.md)
 - [k진수에서 소수 개수 구하기](./programmers/92335/README.md)
 - [n^2 배열 자르기](./programmers/87390/README.md)
 - [N개의 최소공배수](./programmers/12953/README.md)
