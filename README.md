@@ -18,6 +18,7 @@
 - [이진 변환 반복하기](./programmers/70129/README.md)
 - [점 찍기](./programmers/140107/README.md)
 - [주차 요금 계산](./programmers/92341/README.md)
+- [큰 수 만들기](./programmers/42883/README.md)
 - [타겟 넘버](./programmers/43165/README.md)
 - [택배상자](./programmers/131704/README.md)
 - [할인 행사](./programmers/131127/README.md)
