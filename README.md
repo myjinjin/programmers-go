@@ -4,6 +4,7 @@
 - [k진수에서 소수 개수 구하기](./programmers/92335/README.md)
 - [n^2 배열 자르기](./programmers/87390/README.md)
 - [N개의 최소공배수](./programmers/12953/README.md)
+- [과제 진행하기](./programmers/176962/README.md)
 - [괄호 회전하기](./programmers/76502/README.md)
 - [귤 고르기](./programmers/138476/README.md)
 - [두 원 사이의 정수 쌍](./programmers/181187/README.md)
